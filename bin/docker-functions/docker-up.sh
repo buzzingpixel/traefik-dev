@@ -33,6 +33,7 @@ function docker-up() {
     # Ensure certificates exist with or reusable local function
     localMkCert "localhost";
     localMkCert "buzzingpixel.localtest.me";
+    localMkCert "nightowl.localtest.me";
 
     docker compose ${composeFiles} -p traefik-dev up -d;
 

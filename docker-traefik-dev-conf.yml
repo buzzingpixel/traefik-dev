@@ -13,3 +13,5 @@ tls:
   certificates:
     - certFile: /certs/buzzingpixel.localtest.me.cert
       keyFile: /certs/buzzingpixel.localtest.me.key
+    - certFile: /certs/nightowl.localtest.me.cert
+      keyFile: /certs/nightowl.localtest.me.key
