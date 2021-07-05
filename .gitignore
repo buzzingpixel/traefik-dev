@@ -1,0 +1,30 @@
+#------------------------------------
+# System
+#------------------------------------
+
+.cache
+.DS_Store
+.tmp
+*.diff
+*.err
+*.log
+*.orig
+*.rej
+*.swo
+*.swp
+*.vi
+error_log
+Thumbs.db
+Homestead.yaml
+vendor/*
+*.vagrant
+
+
+
+
+
+#------------------------------------
+# Gitkeep
+#------------------------------------
+
+!.gitkeep
