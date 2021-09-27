@@ -35,6 +35,7 @@ function docker-up() {
     localMkCert "buzzingpixel.localtest.me";
     localMkCert "nightowl.localtest.me";
     localMkCert "eeconf.localtest.me";
+    localMkCert "craft-slim-bridge.localtest.me";
 
     docker compose ${composeFiles} -p traefik-dev up -d;
 

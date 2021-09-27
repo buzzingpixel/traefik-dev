@@ -17,3 +17,5 @@ tls:
       keyFile: /certs/nightowl.localtest.me.key
     - certFile: /certs/eeconf.localtest.me.cert
       keyFile: /certs/eeconf.localtest.me.key
+    - certFile: /certs/craft-slim-bridge.localtest.me.cert
+      keyFile: /certs/craft-slim-bridge.localtest.me.key
