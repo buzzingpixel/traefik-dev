@@ -36,6 +36,7 @@ function docker-up() {
     localMkCert "nightowl.localtest.me";
     localMkCert "eeconf.localtest.me";
     localMkCert "craft-slim-bridge.localtest.me";
+    localMkCert "craft-scheduler.localtest.me";
 
     docker compose ${composeFiles} -p traefik-dev up -d;
 

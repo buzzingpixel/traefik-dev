@@ -19,3 +19,5 @@ tls:
       keyFile: /certs/eeconf.localtest.me.key
     - certFile: /certs/craft-slim-bridge.localtest.me.cert
       keyFile: /certs/craft-slim-bridge.localtest.me.key
+    - certFile: /certs/craft-scheduler.localtest.me.cert
+      keyFile: /certs/craft-scheduler.localtest.me.key
