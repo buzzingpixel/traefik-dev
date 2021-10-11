@@ -21,3 +21,5 @@ tls:
       keyFile: /certs/craft-slim-bridge.localtest.me.key
     - certFile: /certs/craft-scheduler.localtest.me.cert
       keyFile: /certs/craft-scheduler.localtest.me.key
+    - certFile: /certs/stmark.localtest.me.cert
+      keyFile: /certs/stmark.localtest.me.key
