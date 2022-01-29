@@ -23,3 +23,15 @@ tls:
       keyFile: /certs/craft-scheduler.localtest.me.key
     - certFile: /certs/stmark.localtest.me.cert
       keyFile: /certs/stmark.localtest.me.key
+    - certFile: /certs/2017.eeconf.localtest.me.cert
+      keyFile: /certs/2017.eeconf.localtest.me.key
+    - certFile: /certs/2018.eeconf.localtest.me.cert
+      keyFile: /certs/2018.eeconf.localtest.me.key
+    - certFile: /certs/2019.eeconf.localtest.me.cert
+      keyFile: /certs/2019.eeconf.localtest.me.key
+    - certFile: /certs/2020.eeconf.localtest.me.cert
+      keyFile: /certs/2020.eeconf.localtest.me.key
+    - certFile: /certs/2021.eeconf.localtest.me.cert
+      keyFile: /certs/2021.eeconf.localtest.me.key
+    - certFile: /certs/eeconf.localtest.me.cert
+      keyFile: /certs/eeconf.localtest.me.key
