@@ -35,3 +35,7 @@ tls:
       keyFile: /certs/2021.eeconf.localtest.me.key
     - certFile: /certs/eeconf.localtest.me.cert
       keyFile: /certs/eeconf.localtest.me.key
+    - certFile: /certs/newberry-hospital.localtest.me.cert
+      keyFile: /certs/newberry-hospital.localtest.me.key
+    - certFile: /certs/newberry-test.localtest.me.cert
+      keyFile: /certs/newberry-test.localtest.me.key

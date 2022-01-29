@@ -44,6 +44,8 @@ function docker-up() {
     localMkCert "2020.eeconf.localtest.me";
     localMkCert "2021.eeconf.localtest.me";
     localMkCert "eeconf.localtest.me";
+    localMkCert "newberry-hospital.localtest.me";
+    localMkCert "newberry-test.localtest.me";
 
     docker compose ${composeFiles} -p traefik-dev up -d;
 
