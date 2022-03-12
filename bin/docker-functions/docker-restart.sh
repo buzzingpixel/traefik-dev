@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
-function docker-refresh-help() {
+function docker-restart-help() {
     printf "(Spins down the Docker environment then bring it back online)";
 }
 
-function docker-refresh() {
+function docker-restart() {
     docker-down;
     docker-up;
 
