@@ -9,6 +9,7 @@ services:
       - traefik.enable=true
       - traefik.http.middlewares.https-redirect.redirectscheme.scheme=https
       - traefik.http.middlewares.https-redirect.redirectscheme.permanent=true
+      - traefik.http.middlewares.noindexheaders.headers.customresponseheaders.X-Robots-Tag=noindex,nofollow
     ports:
       - target: 80
         published: 80
