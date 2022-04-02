@@ -43,3 +43,5 @@ tls:
       keyFile: /certs/newberry-test.localtest.me.key
     - certFile: /certs/hospice.localtest.me.cert
       keyFile: /certs/hospice.localtest.me.key
+    - certFile: /certs/fced.localtest.me.cert
+      keyFile: /certs/fced.localtest.me.key

@@ -48,6 +48,7 @@ function docker-up() {
     localMkCert "newberry-hospital.localtest.me";
     localMkCert "newberry-test.localtest.me";
     localMkCert "hospice.localtest.me";
+    localMkCert "fced.localtest.me";
 
     docker compose ${composeFiles} -p traefik-dev up -d;
 
