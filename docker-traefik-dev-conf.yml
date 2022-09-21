@@ -45,3 +45,41 @@ tls:
       keyFile: /certs/hospice.localtest.me.key
     - certFile: /certs/fced.localtest.me.cert
       keyFile: /certs/fced.localtest.me.key
+    - certFile: /certs/termitepestsolutions.localtest.me.cert
+      keyFile: /certs/termitepestsolutions.localtest.me.key
+    - certFile: /certs/anseleephp74.localtest.me.cert
+      keyFile: /certs/anseleephp74.localtest.me.key
+    - certFile: /certs/anseleephp74.test.cert
+      keyFile: /certs/anseleephp74.test.key
+    - certFile: /certs/anseleephp80.localtest.me.cert
+      keyFile: /certs/anseleephp80.localtest.me.key
+    - certFile: /certs/anseleephp80.test.cert
+      keyFile: /certs/anseleephp80.test.key
+    - certFile: /certs/anseleephp81.localtest.me.cert
+      keyFile: /certs/anseleephp81.localtest.me.key
+    - certFile: /certs/anseleephp81.test.cert
+      keyFile: /certs/anseleephp81.test.key
+    - certFile: /certs/anselcraftphp74.localtest.me.cert
+      keyFile: /certs/anselcraftphp74.localtest.me.key
+    - certFile: /certs/anselcraftphp74.test.cert
+      keyFile: /certs/anselcraftphp74.test.key
+    - certFile: /certs/anselcraftphp80.localtest.me.cert
+      keyFile: /certs/anselcraftphp80.localtest.me.key
+    - certFile: /certs/anselcraftphp80.test.cert
+      keyFile: /certs/anselcraftphp80.test.key
+    - certFile: /certs/anselcraftphp81.localtest.me.cert
+      keyFile: /certs/anselcraftphp81.localtest.me.key
+    - certFile: /certs/anselcraftphp81.test.cert
+      keyFile: /certs/anselcraftphp81.test.key
+    - certFile: /certs/anselee7php74.localtest.me.cert
+      keyFile: /certs/anselee7php74.localtest.me.key
+    - certFile: /certs/anselee7php74.test.cert
+      keyFile: /certs/anselee7php74.test.key
+    - certFile: /certs/anselee7php80.localtest.me.cert
+      keyFile: /certs/anselee7php80.localtest.me.key
+    - certFile: /certs/anselee7php80.test.cert
+      keyFile: /certs/anselee7php80.test.key
+    - certFile: /certs/anselee7php81.localtest.me.cert
+      keyFile: /certs/anselee7php81.localtest.me.key
+    - certFile: /certs/anselee7php81.test.cert
+      keyFile: /certs/anselee7php81.test.key

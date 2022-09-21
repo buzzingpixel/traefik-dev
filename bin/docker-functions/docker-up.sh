@@ -49,9 +49,27 @@ function docker-up() {
     localMkCert "newberry-test.localtest.me";
     localMkCert "hospice.localtest.me";
     localMkCert "fced.localtest.me";
+    localMkCert "termitepestsolutions.localtest.me";
+    localMkCert "anseleephp74.localtest.me";
+    localMkCert "anseleephp74.test";
+    localMkCert "anseleephp80.localtest.me";
+    localMkCert "anseleephp80.test";
+    localMkCert "anseleephp81.localtest.me";
+    localMkCert "anseleephp81.test";
+    localMkCert "anselcraftphp74.localtest.me";
+    localMkCert "anselcraftphp74.test";
+    localMkCert "anselcraftphp80.localtest.me";
+    localMkCert "anselcraftphp80.test";
+    localMkCert "anselcraftphp81.localtest.me";
+    localMkCert "anselcraftphp81.test";
+    localMkCert "anselee7php74.localtest.me";
+    localMkCert "anselee7php74.test";
+    localMkCert "anselee7php80.localtest.me";
+    localMkCert "anselee7php80.test";
+    localMkCert "anselee7php81.localtest.me";
+    localMkCert "anselee7php81.test";
 
     docker compose ${composeFiles} -p traefik-dev up -d;
 
     return 0;
-
 }
