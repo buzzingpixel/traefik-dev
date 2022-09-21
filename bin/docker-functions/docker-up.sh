@@ -49,6 +49,7 @@ function docker-up() {
     localMkCert "newberry-test.localtest.me";
     localMkCert "hospice.localtest.me";
     localMkCert "fced.localtest.me";
+    localMkCert "fcsc.localtest.me";
     localMkCert "termitepestsolutions.localtest.me";
     localMkCert "anseleephp74.localtest.me";
     localMkCert "anseleephp74.test";

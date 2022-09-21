@@ -45,6 +45,8 @@ tls:
       keyFile: /certs/hospice.localtest.me.key
     - certFile: /certs/fced.localtest.me.cert
       keyFile: /certs/fced.localtest.me.key
+    - certFile: /certs/fcsc.localtest.me.cert
+      keyFile: /certs/fcsc.localtest.me.key
     - certFile: /certs/termitepestsolutions.localtest.me.cert
       keyFile: /certs/termitepestsolutions.localtest.me.key
     - certFile: /certs/anseleephp74.localtest.me.cert
