@@ -57,18 +57,28 @@ function docker-up() {
     localMkCert "anseleephp80.test";
     localMkCert "anseleephp81.localtest.me";
     localMkCert "anseleephp81.test";
-    localMkCert "anselcraftphp74.localtest.me";
-    localMkCert "anselcraftphp74.test";
-    localMkCert "anselcraftphp80.localtest.me";
-    localMkCert "anselcraftphp80.test";
-    localMkCert "anselcraftphp81.localtest.me";
-    localMkCert "anselcraftphp81.test";
+    localMkCert "anselcraft3php74.localtest.me";
+    localMkCert "anselcraft3php74.test";
+    localMkCert "anselcraft3php80.localtest.me";
+    localMkCert "anselcraft3php80.test";
+    localMkCert "anselcraft3php81.localtest.me";
+    localMkCert "anselcraft3php81.test";
     localMkCert "anselee7php74.localtest.me";
     localMkCert "anselee7php74.test";
     localMkCert "anselee7php80.localtest.me";
     localMkCert "anselee7php80.test";
     localMkCert "anselee7php81.localtest.me";
     localMkCert "anselee7php81.test";
+    localMkCert "anseleecoilpackphp80.localtest.me";
+    localMkCert "anseleecoilpackphp80.test";
+    localMkCert "anseleecoilpackphp81.localtest.me";
+    localMkCert "anseleecoilpackphp81.test";
+    localMkCert "sccb.localtest.me";
+    localMkCert "sccb2.localtest.me";
+    localMkCert "companion-life.localtest.me";
+    localMkCert "coilpack-testing-01.localtest.me";
+    localMkCert "teg.localtest.me";
+    localMkCert "gatch.localtest.me";
 
     docker compose ${composeFiles} -p traefik-dev up -d;
 

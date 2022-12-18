@@ -61,18 +61,18 @@ tls:
       keyFile: /certs/anseleephp81.localtest.me.key
     - certFile: /certs/anseleephp81.test.cert
       keyFile: /certs/anseleephp81.test.key
-    - certFile: /certs/anselcraftphp74.localtest.me.cert
-      keyFile: /certs/anselcraftphp74.localtest.me.key
-    - certFile: /certs/anselcraftphp74.test.cert
-      keyFile: /certs/anselcraftphp74.test.key
-    - certFile: /certs/anselcraftphp80.localtest.me.cert
-      keyFile: /certs/anselcraftphp80.localtest.me.key
-    - certFile: /certs/anselcraftphp80.test.cert
-      keyFile: /certs/anselcraftphp80.test.key
-    - certFile: /certs/anselcraftphp81.localtest.me.cert
-      keyFile: /certs/anselcraftphp81.localtest.me.key
-    - certFile: /certs/anselcraftphp81.test.cert
-      keyFile: /certs/anselcraftphp81.test.key
+    - certFile: /certs/anselcraft3php74.localtest.me.cert
+      keyFile: /certs/anselcraft3php74.localtest.me.key
+    - certFile: /certs/anselcraft3php74.test.cert
+      keyFile: /certs/anselcraft3php74.test.key
+    - certFile: /certs/anselcraft3php80.localtest.me.cert
+      keyFile: /certs/anselcraft3php80.localtest.me.key
+    - certFile: /certs/anselcraft3php80.test.cert
+      keyFile: /certs/anselcraft3php80.test.key
+    - certFile: /certs/anselcraft3php81.localtest.me.cert
+      keyFile: /certs/anselcraft3php81.localtest.me.key
+    - certFile: /certs/anselcraft3php81.test.cert
+      keyFile: /certs/anselcraft3php81.test.key
     - certFile: /certs/anselee7php74.localtest.me.cert
       keyFile: /certs/anselee7php74.localtest.me.key
     - certFile: /certs/anselee7php74.test.cert
@@ -85,3 +85,23 @@ tls:
       keyFile: /certs/anselee7php81.localtest.me.key
     - certFile: /certs/anselee7php81.test.cert
       keyFile: /certs/anselee7php81.test.key
+    - certFile: /certs/anseleecoilpackphp80.localtest.me.cert
+      keyFile: /certs/anseleecoilpackphp80.localtest.me.key
+    - certFile: /certs/anseleecoilpackphp80.test.cert
+      keyFile: /certs/anseleecoilpackphp80.test.key
+    - certFile: /certs/anseleecoilpackphp81.localtest.me.cert
+      keyFile: /certs/anseleecoilpackphp81.localtest.me.key
+    - certFile: /certs/anseleecoilpackphp81.test.cert
+      keyFile: /certs/anseleecoilpackphp81.test.key
+    - certFile: /certs/sccb.localtest.me.cert
+      keyFile: /certs/sccb.localtest.me.key
+    - certFile: /certs/sccb2.localtest.me.cert
+      keyFile: /certs/sccb2.localtest.me.key
+    - certFile: /certs/companion-life.localtest.me.cert
+      keyFile: /certs/companion-life.localtest.me.key
+    - certFile: /certs/coilpack-testing-01.localtest.me.cert
+      keyFile: /certs/coilpack-testing-01.localtest.me.key
+    - certFile: /certs/teg.localtest.me.cert
+      keyFile: /certs/teg.localtest.me.key
+    - certFile: /certs/gatch.localtest.me.cert
+      keyFile: /certs/gatch.localtest.me.key
