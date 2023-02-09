@@ -34,7 +34,6 @@ function docker-up() {
     localMkCert "localhost";
     localMkCert "buzzingpixel.localtest.me";
     localMkCert "nightowl.localtest.me";
-    localMkCert "eeconf.localtest.me";
     localMkCert "craft-slim-bridge.localtest.me";
     localMkCert "craft-scheduler.localtest.me";
     localMkCert "stmark.localtest.me";
@@ -43,6 +42,7 @@ function docker-up() {
     localMkCert "2019.eeconf.localtest.me";
     localMkCert "2020.eeconf.localtest.me";
     localMkCert "2021.eeconf.localtest.me";
+    localMkCert "2022.eeconf.localtest.me";
     localMkCert "cfp.eeconf.localtest.me";
     localMkCert "eeconf.localtest.me";
     localMkCert "newberry-hospital.localtest.me";
