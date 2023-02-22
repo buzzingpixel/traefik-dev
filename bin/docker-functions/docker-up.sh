@@ -79,6 +79,10 @@ function docker-up() {
     localMkCert "coilpack-testing-01.localtest.me";
     localMkCert "teg.localtest.me";
     localMkCert "gatch.localtest.me";
+    localMkCert "mysccta-sc-broadband-assoc.localtest.me";
+    localMkCert "api.mission-control.localtest.me";
+    localMkCert "auth.mission-control.localtest.me";
+    localMkCert "account.mission-control.localtest.me";
 
     docker compose ${composeFiles} -p traefik-dev up -d;
 

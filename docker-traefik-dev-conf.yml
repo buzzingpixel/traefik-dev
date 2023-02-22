@@ -105,3 +105,11 @@ tls:
       keyFile: /certs/teg.localtest.me.key
     - certFile: /certs/gatch.localtest.me.cert
       keyFile: /certs/gatch.localtest.me.key
+    - certFile: /certs/mysccta-sc-broadband-assoc.localtest.me.cert
+      keyFile: /certs/mysccta-sc-broadband-assoc.localtest.me.key
+    - certFile: /certs/api.mission-control.localtest.me.cert
+      keyFile: /certs/api.mission-control.localtest.me.key
+    - certFile: /certs/auth.mission-control.localtest.me.cert
+      keyFile: /certs/auth.mission-control.localtest.me.key
+    - certFile: /certs/account.mission-control.localtest.me.cert
+      keyFile: /certs/account.mission-control.localtest.me.key
