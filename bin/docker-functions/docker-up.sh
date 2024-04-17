@@ -37,6 +37,7 @@ function docker-up() {
     localMkCert "craft-slim-bridge.localtest.me";
     localMkCert "craft-scheduler.localtest.me";
     localMkCert "stmark.localtest.me";
+    localMkCert "stmarkreformed.localtest.me";
     localMkCert "2017.eeconf.localtest.me";
     localMkCert "2018.eeconf.localtest.me";
     localMkCert "2019.eeconf.localtest.me";
