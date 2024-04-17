@@ -83,6 +83,25 @@ function docker-up() {
     localMkCert "api.mission-control.localtest.me";
     localMkCert "auth.mission-control.localtest.me";
     localMkCert "account.mission-control.localtest.me";
+    localMkCert "mailhog.mission-control.localtest.me";
+    localMkCert "mission-control.localtest.me";
+    localMkCert "colonial-packaging.localtest.me";
+    localMkCert "blueoceandocker.localtest.me";
+    localMkCert "deltaepsilon.localtest.me";
+    localMkCert "dixietools.localtest.me";
+    localMkCert "insulationsc.localtest.me";
+    localMkCert "hobgoodelectric.localtest.me";
+    localMkCert "dwg-dev-up.localtest.me";
+    localMkCert "dwg-dev-up.localtest.me";
+    localMkCert "intermarkmgt.localtest.me";
+    localMkCert "bradleyyccgrant.localtest.me";
+    localMkCert "dwg-standards.localtest.me";
+    localMkCert "newberryoperahouse.localtest.me";
+    localMkCert "mission-control-app.localtest.me";
+    localMkCert "bulldog.localtest.me";
+    localMkCert "qotd.mikedubose.localtest.me";
+    localMkCert "lakemurrayboating.localtest.me";
+    localMkCert "iisinet.localtest.me";
 
     docker compose ${composeFiles} -p traefik-dev up -d;
 

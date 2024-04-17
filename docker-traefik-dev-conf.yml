@@ -113,3 +113,38 @@ tls:
       keyFile: /certs/auth.mission-control.localtest.me.key
     - certFile: /certs/account.mission-control.localtest.me.cert
       keyFile: /certs/account.mission-control.localtest.me.key
+    - certFile: /certs/mailhog.mission-control.localtest.me.cert
+      keyFile: /certs/mailhog.mission-control.localtest.me.key
+    - certFile: /certs/mission-control.localtest.me.cert
+      keyFile: /certs/mission-control.localtest.me.key
+    - certFile: /certs/colonial-packaging.localtest.me.cert
+      keyFile: /certs/colonial-packaging.localtest.me.key
+    - certFile: /certs/blueoceandocker.localtest.me.cert
+      keyFile: /certs/blueoceandocker.localtest.me.key
+    - certFile: /certs/deltaepsilon.localtest.me.cert
+    - certFile: /certs/dixietools.localtest.me.cert
+      keyFile: /certs/dixietools.localtest.me.key
+    - certFile: /certs/insulationsc.localtest.me.cert
+      keyFile: /certs/insulationsc.localtest.me.key
+    - certFile: /certs/hobgoodelectric.localtest.me.cert
+      keyFile: /certs/hobgoodelectric.localtest.me.key
+    - certFile: /certs/dwg-dev-up.localtest.me.cert
+      keyFile: /certs/dwg-dev-up.localtest.me.key
+    - certFile: /certs/intermarkmgt.localtest.me.cert
+      keyFile: /certs/intermarkmgt.localtest.me.key
+    - certFile: /certs/bradleyyccgrant.localtest.me.cert
+      keyFile: /certs/bradleyyccgrant.localtest.me.key
+    - certFile: /certs/dwg-standards.localtest.me.cert
+      keyFile: /certs/dwg-standards.localtest.me.key
+    - certFile: /certs/newberryoperahouse.localtest.me.cert
+      keyFile: /certs/newberryoperahouse.localtest.me.key
+    - certFile: /certs/mission-control-app.localtest.me.cert
+      keyFile: /certs/mission-control-app.localtest.me.key
+    - certFile: /certs/bulldog.localtest.me.cert
+      keyFile: /certs/bulldog.localtest.me.key
+    - certFile: /certs/qotd.mikedubose.localtest.me.cert
+      keyFile: /certs/qotd.mikedubose.localtest.me.key
+    - certFile: /certs/lakemurrayboating.localtest.me.cert
+      keyFile: /certs/lakemurrayboating.localtest.me.key
+    - certFile: /certs/iisinet.localtest.me.cert
+      keyFile: /certs/iisinet.localtest.me.key
