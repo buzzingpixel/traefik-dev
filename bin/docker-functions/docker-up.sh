@@ -103,6 +103,7 @@ function docker-up() {
     localMkCert "qotd.mikedubose.localtest.me";
     localMkCert "lakemurrayboating.localtest.me";
     localMkCert "iisinet.localtest.me";
+    localMkCert "auth.stmarkreformed.localtest.me";
 
     docker compose ${composeFiles} -p traefik-dev up -d;
 

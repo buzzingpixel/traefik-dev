@@ -150,3 +150,5 @@ tls:
       keyFile: /certs/lakemurrayboating.localtest.me.key
     - certFile: /certs/iisinet.localtest.me.cert
       keyFile: /certs/iisinet.localtest.me.key
+    - certFile: /certs/auth.stmarkreformed.localtest.me.cert
+      keyFile: /certs/auth.stmarkreformed.localtest.me.key
