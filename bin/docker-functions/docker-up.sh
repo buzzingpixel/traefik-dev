@@ -37,7 +37,6 @@ function docker-up() {
     localMkCert "craft-slim-bridge.localtest.me";
     localMkCert "craft-scheduler.localtest.me";
     localMkCert "stmark.localtest.me";
-    localMkCert "stmarkreformed.localtest.me";
     localMkCert "2017.eeconf.localtest.me";
     localMkCert "2018.eeconf.localtest.me";
     localMkCert "2019.eeconf.localtest.me";
@@ -103,7 +102,9 @@ function docker-up() {
     localMkCert "qotd.mikedubose.localtest.me";
     localMkCert "lakemurrayboating.localtest.me";
     localMkCert "iisinet.localtest.me";
+    localMkCert "stmarkreformed.localtest.me";
     localMkCert "auth.stmarkreformed.localtest.me";
+    localMkCert "api.stmarkreformed.localtest.me";
 
     docker compose ${composeFiles} -p traefik-dev up -d;
 
