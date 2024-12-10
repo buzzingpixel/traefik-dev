@@ -150,6 +150,8 @@ tls:
       keyFile: /certs/iisinet.localtest.me.key
     - certFile: /certs/stmarkreformed.localtest.me.cert
       keyFile: /certs/stmarkreformed.localtest.me.key
+    - certFile: /certs/cms.stmarkreformed.localtest.me.cert
+      keyFile: /certs/cms.stmarkreformed.localtest.me.key
     - certFile: /certs/auth.stmarkreformed.localtest.me.cert
       keyFile: /certs/auth.stmarkreformed.localtest.me.key
     - certFile: /certs/api.stmarkreformed.localtest.me.cert

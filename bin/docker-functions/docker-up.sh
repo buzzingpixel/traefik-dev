@@ -103,6 +103,7 @@ function docker-up() {
     localMkCert "lakemurrayboating.localtest.me";
     localMkCert "iisinet.localtest.me";
     localMkCert "stmarkreformed.localtest.me";
+    localMkCert "cms.stmarkreformed.localtest.me";
     localMkCert "auth.stmarkreformed.localtest.me";
     localMkCert "api.stmarkreformed.localtest.me";
 
