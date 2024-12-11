@@ -156,3 +156,5 @@ tls:
       keyFile: /certs/auth.stmarkreformed.localtest.me.key
     - certFile: /certs/api.stmarkreformed.localtest.me.cert
       keyFile: /certs/api.stmarkreformed.localtest.me.key
+    - certFile: /certs/mailhog.stmarkreformed.localtest.me.cert
+      keyFile: /certs/mailhog.stmarkreformed.localtest.me.key
