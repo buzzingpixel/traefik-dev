@@ -158,3 +158,9 @@ tls:
       keyFile: /certs/api.stmarkreformed.localtest.me.key
     - certFile: /certs/mailhog.stmarkreformed.localtest.me.cert
       keyFile: /certs/mailhog.stmarkreformed.localtest.me.key
+    - certFile: /certs/sermons.tjdraper.localtest.me.cert
+      keyFile: /certs/sermons.tjdraper.localtest.me.key
+    - certFile: /certs/tjdraper.localtest.me.cert
+      keyFile: /certs/tjdraper.localtest.me.key
+    - certFile: /certs/ramblings.tjdraper.localtest.me.cert
+      keyFile: /certs/ramblings.tjdraper.localtest.me.key
