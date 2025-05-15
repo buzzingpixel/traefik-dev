@@ -38,6 +38,7 @@ function docker-up() {
     localMkCert "craft-scheduler.localtest.me";
     localMkCert "stmark.localtest.me";
     localMkCert "api.stmark.localtest.me";
+    localMkCert "mailhog.stmark.localtest.me";
     localMkCert "2017.eeconf.localtest.me";
     localMkCert "2018.eeconf.localtest.me";
     localMkCert "2019.eeconf.localtest.me";

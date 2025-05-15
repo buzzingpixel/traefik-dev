@@ -23,6 +23,8 @@ tls:
       keyFile: /certs/stmark.localtest.me.key
     - certFile: /certs/api.stmark.localtest.me.cert
       keyFile: /certs/api.stmark.localtest.me.key
+    - certFile: /certs/mailhog.stmark.localtest.me.cert
+      keyFile: /certs/mailhog.stmark.localtest.me.key
     - certFile: /certs/2017.eeconf.localtest.me.cert
       keyFile: /certs/2017.eeconf.localtest.me.key
     - certFile: /certs/2018.eeconf.localtest.me.cert
