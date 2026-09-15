@@ -170,3 +170,5 @@ tls:
       keyFile: /certs/tjdraper.localtest.me.key
     - certFile: /certs/ramblings.tjdraper.localtest.me.cert
       keyFile: /certs/ramblings.tjdraper.localtest.me.key
+    - certFile: /certs/locus.tjdraper.localtest.me.cert
+      keyFile: /certs/locus.tjdraper.localtest.me.key
